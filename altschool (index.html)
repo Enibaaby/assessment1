@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assessment 1</title>
+</head>
+<body>
+    <a id="top"></a>
+    <h1>ASSESSMENT 1</h1>
+    <section>
+        <h2>BASIC INFORMATION</h2>
+        <P>NAME: Akobada Eniola</P>
+        <p>ALTSCHOOL ID: ALT/SOE/025/1431</p>
+        <P>PROGRAM: School of Engineering (Backend Engineering)</P>
+    </section>
+    <section>
+        <h2>BIOGRAPHY</h2>
+        <p>My name is Akobada Eniola, I'm a student of AltSchool taking the backend engineering program. I'm also a student of the University of Lagos, Akoka studying geophysics.</p>
+        <p>I am from Lagos State, Nigeria, so yeah I'm black.</p>
+        <p>I love everything technical that's why I love tech, I love to search for anomalies, I love to read, and I love to speak.</p>
+    </section>
+    <section>
+        <h2>WHY I JOINED THE SCHOOL OF ENGINEERING PROGRAM</h2>
+        <P>I joined the school of engineering program bcakend to be precise, because I believe that's the program that's best for me. I want to become a successful software engineer.</P>
+        <p>I also joined this diploma program because the world is moving into the tech age and almost everything is being digitalised and I want to gain skills that will make me relevant in this tech age.</p>
+        <p>I also joined this program so that I can start working early and gain financial freedom in my middle twenties at least. i want a job or profession that doesn.t take me away from the world but allows me to do other things aside work and i believe that software engineering is my way of achieving this.</p>
+    </section>
+    <section>
+        <h2>MY GOALS FOR THE SCHOOL OF ENGINEERING PROGRAM</h2>
+        <p> I have so many goals and plans for this program but i will only list a few.</p>
+        <P>1. To get an internsip by the end of this program and get a job.</P>
+        <p>2. To post my progress on LinkedIn.</p>
+        <P>3. To master my coding skills.</P>
+        <p>4. To build simple projects that resonate with me.</p>
+    </section>
+    <p><a href="#top">Back to Top</a></p>
+</body>
+</html>
